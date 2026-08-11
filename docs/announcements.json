@@ -2,13 +2,13 @@
   "announcements": [
     {
       "id": "ann-2026-001",
-      "title": "新功能上线",
-      "content": "支吊架计算模块已上线，欢迎使用。",
-      "link": "https://cohlzhtweb.feishu.cn/wiki/xxx",
+      "title": "帮助文档链接",
+      "content": "帮助文件链接。",
+      "link": "https://cohlzhtweb.feishu.cn/wiki/N3MBwanrhiBIFIk2BzVcdRs7n8d",
       "linkText": "查看详情",
       "priority": "normal",
       "publishDate": "2026-07-27",
-      "expireDate": "2026-08-27",
+      "expireDate": "2027-08-27",
       "minVersion": "",
       "maxVersion": ""
     }
