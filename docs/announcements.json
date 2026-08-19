@@ -12,6 +12,17 @@
       "minVersion": "",
       "maxVersion": ""
     }
-    
+     {
+      "id": "ann-2026-002",
+      "title": "新版本已经发布",
+      "content": "CSME v2.0.0版本已经正式发布，请及时更新。",
+      "link": "https://cohlzhtweb.feishu.cn/wiki/N3MBwanrhiBIFIk2BzVcdRs7n8d",
+      "linkText": "查看详情",
+      "priority": "normal",
+      "publishDate": "2026-08-18",
+      "expireDate": "2027-09-19",
+      "minVersion": "",
+      "maxVersion": ""
+    }
   ]
 }
