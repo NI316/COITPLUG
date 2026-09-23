@@ -44,9 +44,22 @@
       "linkText": "查看详情",
       "priority": "normal",
       "publishDate": "2026-09-16",
+      "expireDate": "2027-09-22",
+      "minVersion": "",
+      "maxVersion": ""
+    },
+    {
+      "id": "ann-2026-005",
+      "title": "新版本已经发布",
+      "content": "CSME v2.1.1版本已经正式发布，主要更新功能有洞口创建，风管管件附件及保温面积计算，引线调整加载慢等问题，请及时更新。",
+      "link": "https://cohlzhtweb.feishu.cn/wiki/N3MBwanrhiBIFIk2BzVcdRs7n8d",
+      "linkText": "查看详情",
+      "priority": "normal",
+      "publishDate": "2026-09-22",
       "expireDate": "2027-10-15",
       "minVersion": "",
       "maxVersion": ""
     }
+    
   ]
 }
